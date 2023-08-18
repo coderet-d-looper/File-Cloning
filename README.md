@@ -31,8 +31,7 @@ We welcome contributions from the community! If you're interested in improving t
 This project is licensed under the MIT License.
 
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/05/75/89/43/360_F_575894362_ke401jaMGVvTWT06VVQHHqubMBOYvtj6.jpg" alt="Footer Logo">
   <br>
-  <b>Account Cloning Tool</b><br>
+  <b>File Cloning Tool</b><br>
   &copy; 2023 Dark Z Corp. All rights reserved.
 </p>
