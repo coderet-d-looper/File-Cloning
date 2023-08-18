@@ -1,10 +1,10 @@
-# Account Cloning Tool
+# File + Random Cloning Tool
 
 ![Header](https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
 
 ## Overview
 
-The Account Cloning Tool is a utility designed to streamline the process of cloning user accounts and their associated data. It provides an efficient way to crack password without notifying user.
+The File + Random Cloning Tool is a utility designed to streamline the process of cloning user accounts and their associated data. It provides an efficient way to crack password without notifying user.
 
 ## Features
 
@@ -31,7 +31,7 @@ We welcome contributions from the community! If you're interested in improving t
 This project is licensed under the MIT License.
 
 <p align="center">
-  <img src="https://your-image-url.com/footer-logo.png" alt="Footer Logo">
+  <img src="https://t4.ftcdn.net/jpg/05/75/89/43/360_F_575894362_ke401jaMGVvTWT06VVQHHqubMBOYvtj6.jpg" alt="Footer Logo">
   <br>
   <b>Account Cloning Tool</b><br>
   &copy; 2023 Dark Z Corp. All rights reserved.
